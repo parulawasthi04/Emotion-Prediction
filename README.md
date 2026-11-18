@@ -185,7 +185,3 @@ The response includes the server status and a `model_loaded` boolean.
 ## Important Note
 
 Moodline is an educational text-classification project. Its output is a model prediction based on learned patterns in text; it should not be treated as a clinical assessment, a mental-health diagnosis, or a definitive statement about a person's emotional state.
-
-## Acknowledgement
-
-This project is based on the work in the original [tanishq-latent/Emotion-Prediction](https://github.com/tanishq-latent/Emotion-Prediction) repository. Please retain the original project's applicable license and attribution notices when redistributing or modifying its code.
